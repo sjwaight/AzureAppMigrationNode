@@ -27,7 +27,7 @@
     "good-console": "^8.0.0",
     "good-squeeze": "^5.1.0",
     "hapi": "^17.6.0",
-    "hapi-mongodb": "^7.1.0",
+    "hapi-mongodb": "^10.0.3",
     "joi": "^13.7.0",
     "mongodb": "^3.1.13"
   },
